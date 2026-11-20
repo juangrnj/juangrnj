@@ -16,3 +16,4 @@ market microstructure, project scheduling, and business operations.
 | [idx-broker-flow-analytics](https://github.com/juangrnj/idx-broker-flow-analytics) | Analytics engine for Indonesian stocks. Classifies every trade, tracks broker accumulation and distribution, detects wash trades. 113 tests. |
 | [jalur-kritis](https://github.com/juangrnj/jalur-kritis) | Project-scheduling web app: CPM, PERT + Monte Carlo, crashing, Earned Value. 363 tests. Live at [jalurkritis.web.id](https://jalurkritis.web.id) |
 | [lotku-showcase](https://github.com/juangrnj/lotku-showcase) | SaaS products I built and run: POS ([app.lotku.com](https://app.lotku.com)), multi-store order/warehouse system, portfolio builder |
+| [ragrag-works-showcase](https://github.com/juangrnj/ragrag-works-showcase) | E-commerce site with a live payment gateway, verified webhooks and a 2FA admin. Live at [ragragstock.com](https://ragragstock.com) |
