@@ -13,6 +13,8 @@ market microstructure, project scheduling, and business operations.
 
 | Project | What it is |
 |---|---|
+| [idx-market-risk-analysis](https://github.com/juangrnj/idx-market-risk-analysis) | Risk, correlation and beta of 10 IDX stocks vs IHSG, efficient frontier and Monte Carlo VaR (Jupyter) |
+| [ecommerce-sql-analysis](https://github.com/juangrnj/ecommerce-sql-analysis) | 541k transactions analysed in SQL: cohort retention, RFM segmentation, Pareto, data-quality audit (Jupyter) |
 | [idx-broker-flow-analytics](https://github.com/juangrnj/idx-broker-flow-analytics) | Analytics engine for Indonesian stocks. Classifies every trade, tracks broker accumulation and distribution, detects wash trades. 113 tests. |
 | [jalur-kritis](https://github.com/juangrnj/jalur-kritis) | Project-scheduling web app: CPM, PERT + Monte Carlo, crashing, Earned Value. 363 tests. Live at [jalurkritis.web.id](https://jalurkritis.web.id) |
 | [lotku-showcase](https://github.com/juangrnj/lotku-showcase) | SaaS products I built and run: POS ([app.lotku.com](https://app.lotku.com)), multi-store order/warehouse system, portfolio builder |
